@@ -1,7 +1,14 @@
-.pyc
+*.py[co]
 *~
 __pycache__
 myvenv
 db.sqlite3
 /static
-.DS_Store
+[Bb]in
+[Ii]nclude
+[Ll]ib
+[Ll]ib64
+[Ll]ocal
+[Ss]cripts
+pyvenv.cfg
+.venv
